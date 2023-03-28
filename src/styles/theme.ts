@@ -1,13 +1,13 @@
 export const theme = {
   white: '#ffffff',
 
-  'primary-light': '#F2A999',
-  primary: '#F28B66',
-  'primary-dark': '#F24607',
+  'primary-light': '#78FFD6',
+  primary: '#2BFFC0',
+  'primary-dark': '#23CC99',
 
-  'secondary-light': '#75CCFF',
-  secondary: '#75CCFF',
-  'secondary-dark': '#00695B',
+  'secondary-light': '#3D51BF',
+  secondary: '#021373',
+  'secondary-dark': '#010B40',
 
   'gray-100': '#E1E1E6',
   'gray-300': '#C4C4CC',
