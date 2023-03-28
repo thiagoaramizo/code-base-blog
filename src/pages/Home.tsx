@@ -21,7 +21,7 @@ export const Home = () => {
 
   const getPosts = async () => {
     const text = ''
-    const repo = 'github-blog'
+    const repo = 'code-base-blog'
     const username = 'thiagoaramizo'
     const response = await api.get(`/search/issues`, {
       params: {
